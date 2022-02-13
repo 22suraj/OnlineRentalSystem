@@ -13,7 +13,7 @@ namespace OnlineRentalSystemAPI.Data
             var mongoClient = new MongoClient(options.Value.ConnectionString);
 
             _users = mongoClient.GetDatabase(options.Value.DatabaseName)
-                .GetCollection<RegisterUser>(options.Value.CollectionName);
+                .GetCollection<RegisterUser>("Accounts");
         }
 
         public async Task<List<RegisterUser>> Get() =>

@@ -14,6 +14,8 @@ namespace OnlineRentalSystemAPI
 
         public string LastName { get; set; } = string.Empty;
 
+        public string Type { get; set; } = string.Empty;
+
         public string password { get; set; } = string.Empty;
 
         public string cpassword { get; set; } = string.Empty;
