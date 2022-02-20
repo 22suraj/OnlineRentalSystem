@@ -41,3 +41,9 @@ S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\
 S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
 S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
 S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\System.Web.Cors.dll
+S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\System.Web.Http.dll
+S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\System.Web.Http.Cors.dll
+S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+S:\OnlineRentalAPI\OnlineRentalSystemAPI\OnlineRentalSystemAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

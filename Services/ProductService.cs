@@ -23,5 +23,9 @@ namespace OnlineRentalSystemAPI.Data
 
         public async Task Create(Product newProduct) =>
             await _products.InsertOneAsync(newProduct);
+
+        public async Task DeleteProduct(Product newProduct) =>
+            await _products.FindOneAndDeleteAsync(x => x.id == newProduct.id);
+
     }
 }
